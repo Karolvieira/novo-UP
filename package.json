@@ -1,0 +1,14 @@
+{
+  "name": "novo-up",
+  "version": "1.0.0",
+  "description": "## Available Scripts",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass --watch styles/scss/index.scss styles/css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}

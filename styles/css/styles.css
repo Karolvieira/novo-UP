@@ -1,0 +1,164 @@
+.button_primary {
+  background: #652280;
+  border-radius: 50px;
+}
+
+/* nav bar */
+.menu_container {
+  padding-top: 5px;
+  height: 65px;
+  background-color: white;
+  display: flex;
+  align-content: space-between;
+}
+
+.menu_container_um {
+  width: 20%;
+}
+
+.menu_container_dois {
+  width: 50%;
+}
+
+.menu_conatiner_logo {
+  width: 20%;
+}
+
+.animalpage {
+  width: 105px;
+  height: 42px;
+  color: #652280;
+  border-radius: 25px;
+  border-color: #652280;
+  background-color: white;
+}
+
+/* body */
+.body {
+  font-family: "Nunito", sans-serif;
+}
+
+.container {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.carrocel_promo {
+  position: relative;
+  margin: auto;
+}
+
+.promotion {
+  object-fit: cover;
+  width: 100%;
+  max-height: 465px;
+}
+
+.information {
+  text-align: center;
+  position: center;
+}
+
+.linha {
+  position: relative;
+  left: 111px;
+  bottom: 20px;
+}
+
+/* newsletter */
+.newsletter {
+  width: 100%;
+  align-content: center;
+}
+
+/* footer */
+.footer {
+  display: flex;
+  color: white;
+  background-color: black;
+}
+
+.sobre {
+  width: 50%;
+  font-size: 14px;
+}
+
+.apoio {
+  width: 50%;
+  font-size: 14px;
+}
+
+.disclaimer {
+  width: 100%;
+  height: 20px;
+  font-size: 10px;
+}
+
+/*cards*/
+.cards_primary_dog {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+}
+
+.card_meal {
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  text-decoration-color: #652280;
+}
+
+.card_treats {
+  width: 50%;
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  text-decoration-color: #652280;
+}
+
+.card_play {
+  width: 50%;
+  background-color: white;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  text-decoration-color: #652280;
+}
+
+.cards_secundary {
+  width: 1280px;
+  height: 469px;
+  background: #e9e9e9;
+}
+
+/*utilities*/
+.bg-color {
+  background-color: #fada31;
+}
+
+.padding-area {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* aula card 
+  .review-card {
+    max-width: 350px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  img {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 90px;
+  }
+
+  @media (max-width 768px)
+
+  .padding-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }*/
+
+/*# sourceMappingURL=styles.css.map */
